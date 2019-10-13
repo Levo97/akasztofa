@@ -74,7 +74,8 @@
       },
       trybetu(betu) {
         if (this.usedbetus.includes(betu)) {
-          return
+          
+          return 
         }
 
         this.usedbetus.push(betu)
